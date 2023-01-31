@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'PoultryField'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F3C4381A051A46419564C8B5F88A58D5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_15F17284106F4516B9A30D33EB5CF1CF }}
           package: .
