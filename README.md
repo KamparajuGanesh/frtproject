@@ -10,7 +10,7 @@ IDE: VS-Code
 
 Industry : Lifestyle
 
-Project Title : Foodie
+Project Title : Poultry Field
 
 Problem Statement/Opportunity : The Agricultural Sector.
 
